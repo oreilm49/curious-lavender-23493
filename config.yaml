@@ -5,9 +5,6 @@ params:
     title: SPECR
     has_nav: true
     nav_links:
-      - label: Features
-        url: /features
-        style: link
       - label: Log In
         url: app.specr.ie
         style: primary
