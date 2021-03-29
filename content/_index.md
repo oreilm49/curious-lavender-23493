@@ -64,7 +64,7 @@ sections:
             url: /features
             style: secondary
   - type: cta_section
-    title: This Is A CTA
+    title: Get in touch
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
