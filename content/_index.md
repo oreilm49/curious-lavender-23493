@@ -43,7 +43,7 @@ sections:
           though historical price data to understand how product prices and
           positioning change overtime.
         align: left
-        image: images/feature.svg
+        image: images/price_tracking.png
         image_alt: Feature 2 placeholder image
         image_position: left
         actions:
