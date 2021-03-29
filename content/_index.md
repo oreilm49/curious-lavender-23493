@@ -69,7 +69,7 @@ sections:
       If you'd like this analysis for your ecommerce business, get in touch.
       We'll have you up and running in no time!
     actions:
-      - label: Learn More
+      - label: Get in touch
         url: /features
         style: primary
     has_background: true
