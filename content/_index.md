@@ -25,10 +25,10 @@ sections:
     title: Features
     features:
       - title: Category Pivot View
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Create custom pivot views of yours and competitor products to get a
+          easy to understand overview of your market positioning. Check back in
+          when you need more data, as the Category Pivot updates daily.
         align: left
         image: images/feature.svg
         image_alt: Feature 1 placeholder image
