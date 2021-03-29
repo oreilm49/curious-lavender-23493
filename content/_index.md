@@ -76,7 +76,9 @@ sections:
     background_color: gray
 seo:
   title: Specr
-  description: The preview of the Starter theme
+  description: >-
+    Automated category analysis for ecommerce. Specr provides the insights, so
+    marketers can spend more time making decisions.
   extra:
     - name: 'og:type'
       value: website
