@@ -6,7 +6,7 @@ params:
     has_nav: true
     nav_links:
       - label: Log In
-        url: app.specr.ie
+        url: 'https://app.specr.ie'
         style: primary
   footer:
     has_nav: true
