@@ -8,9 +8,6 @@ params:
       - label: Features
         url: /features
         style: link
-      - label: Blog
-        url: /blog
-        style: link
       - label: Log In
         url: app.specr.ie
         style: primary
