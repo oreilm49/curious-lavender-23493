@@ -14,7 +14,7 @@ params:
     has_social: true
     social_links: []
     content: '&copy; Specr. All rights reserved.'
-  domain: 'http://calm-rock-06c23e810.azurestaticapps.net'
+  domain: 'http://specr.ie'
 taxonomies:
   stub: stub
 disableKinds:
