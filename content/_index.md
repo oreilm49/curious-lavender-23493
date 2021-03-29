@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: Automated Category Analysis For Ecommerce
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Specr provides the insights, so marketers can spend more time making
+      important decisions, and less time building spreadsheets.
     actions:
       - label: Learn More
         url: /features
