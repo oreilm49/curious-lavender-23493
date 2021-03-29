@@ -48,7 +48,7 @@ sections:
         image_position: left
         actions:
           - label: Get in touch
-            url: /features
+            url: /contact
             style: secondary
       - title: Detailed Product Data
         content: >
