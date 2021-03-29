@@ -56,7 +56,7 @@ sections:
           you a highly detailed overview for all products in your target
           categories.
         align: left
-        image: images/feature.svg
+        image: images/product_page.png
         image_alt: Feature 3 placeholder image
         image_position: right
         actions:
