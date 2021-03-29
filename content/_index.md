@@ -7,9 +7,6 @@ sections:
       Specr provides the insights, so marketers can spend more time making
       important decisions, and less time building spreadsheets.
     actions:
-      - label: Learn More
-        url: /features
-        style: primary
       - label: Contact Us
         url: /contact
         style: secondary
