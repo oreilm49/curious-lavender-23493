@@ -14,9 +14,6 @@ params:
       - label: About
         url: /about
         style: link
-      - label: Style Guide
-        url: /style-guide
-        style: link
       - label: Log In
         url: app.specr.ie
         style: primary
