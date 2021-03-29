@@ -70,7 +70,7 @@ sections:
       We'll have you up and running in no time!
     actions:
       - label: Get in touch
-        url: /features
+        url: /contact
         style: primary
     has_background: true
     background_color: gray
