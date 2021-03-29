@@ -61,7 +61,7 @@ sections:
         image_position: right
         actions:
           - label: Get in touch
-            url: /features
+            url: /contact
             style: secondary
   - type: cta_section
     title: Get in touch
