@@ -35,7 +35,7 @@ sections:
         image_position: right
         actions:
           - label: Learn More
-            url: /features
+            url: /contact
             style: secondary
       - title: Price Analysis
         content: >
