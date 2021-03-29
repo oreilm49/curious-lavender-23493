@@ -30,7 +30,7 @@ sections:
           easy to understand overview of your market positioning. Check back in
           when you need more data, as the Category Pivot updates daily.
         align: left
-        image: images/feature.svg
+        image: images/pivot_table.png
         image_alt: Feature 1 placeholder image
         image_position: right
         actions:
