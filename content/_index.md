@@ -66,8 +66,8 @@ sections:
   - type: cta_section
     title: Get in touch
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      If you'd like this analysis for your ecommerce business, get in touch.
+      We'll have you up and running in no time!
     actions:
       - label: Learn More
         url: /features
