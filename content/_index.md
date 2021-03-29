@@ -38,10 +38,10 @@ sections:
             url: /features
             style: secondary
       - title: Price Analysis
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          For all the categories and websites you're tracking, you can search
+          though historical price data to understand how product prices and
+          positioning change overtime.
         align: left
         image: images/feature.svg
         image_alt: Feature 2 placeholder image
