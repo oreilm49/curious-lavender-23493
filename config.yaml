@@ -11,9 +11,6 @@ params:
   footer:
     has_nav: true
     nav_links:
-      - label: Contact Us
-        url: /contact
-        style: link
       - label: Privacy and Terms
         url: /terms
         style: link
