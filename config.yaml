@@ -18,7 +18,7 @@ params:
         url: /style-guide
         style: link
       - label: Log In
-        url: /contact
+        url: app.specr.ie
         style: primary
   footer:
     has_nav: true
