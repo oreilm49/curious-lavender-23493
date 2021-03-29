@@ -11,9 +11,6 @@ params:
       - label: Blog
         url: /blog
         style: link
-      - label: About
-        url: /about
-        style: link
       - label: Log In
         url: app.specr.ie
         style: primary
