@@ -13,10 +13,6 @@ params:
     nav_links: []
     has_social: true
     social_links:
-      - label: GitHub
-        url: 'https://github.com/'
-        style: link
-        new_window: true
       - label: LinkedIn
         url: 'https://www.linkedin.com/'
         style: link
