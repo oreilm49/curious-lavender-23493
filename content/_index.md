@@ -51,10 +51,10 @@ sections:
             url: /features
             style: secondary
       - title: Detailed Product Data
-        content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
+        content: >
+          We aggregate price and specification data from across the web to bring
+          you a highly detailed overview for all products in your target
+          categories.
         align: left
         image: images/feature.svg
         image_alt: Feature 3 placeholder image
