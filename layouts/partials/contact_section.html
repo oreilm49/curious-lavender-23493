@@ -42,7 +42,6 @@ const handleSubmit = (e) => {
     formData.forEach(function(value, key){
         object[key] = value;
     });
-    var json = JSON.stringify(object);
     fetch('https://app.specr.ie/api/v1/contact', {
         method: 'POST',
         headers: { "Content-Type": "application/json" },
