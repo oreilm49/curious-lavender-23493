@@ -43,11 +43,11 @@ const handleSubmit = (e) => {
         object[key] = value;
     });
     var json = JSON.stringify(object);
-  fetch('https://app.specr.ie/api/v1/contact', {
-    method: 'POST',
-    headers: { "Content-Type": "application/json" },
-    body: new URLSearchParams(formData).toString()
-  }).then(() => console.log('Form successfully submitted')).catch((error) =>
-    alert(error))
+    fetch('https://app.specr.ie/api/v1/contact', {
+        method: 'POST',
+        headers: { "Content-Type": "application/json" },
+        body: new URLSearchParams(formData).toString()
+    }).then(() => console.log('Form successfully submitted')).catch((error) =>
+        alert(error))
 }
 </script>
