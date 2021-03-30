@@ -87,7 +87,9 @@ seo:
       value: Specr
       keyName: property
     - name: 'og:description'
-      value: The preview of the Starter theme
+      value: >-
+        Automated category analysis for ecommerce. Specr provides the insights,
+        so marketers can spend more time making decisions.
       keyName: property
     - name: 'og:image'
       value: images/starter-preview.png
