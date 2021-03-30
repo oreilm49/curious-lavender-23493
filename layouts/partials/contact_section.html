@@ -38,7 +38,7 @@ document.querySelector("#contactForm").addEventListener("submit", handleSubmit);
 const handleSubmit = (e) => {
     e.preventDefault()
     let formData = new FormData(document.getElementById('#contactForm'))
-    var object = {};
+    var data = {};
     formData.forEach((value, key) => {
         object[key] = value;
     });
