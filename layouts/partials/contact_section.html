@@ -37,7 +37,6 @@ document.querySelector("#contactForm").addEventListener("submit", handleSubmit);
 
 const handleSubmit = (e) => {
   e.preventDefault()
-  let form = document.getElementById('#contactForm');
   let formData = new FormData(document.getElementById('#contactForm');)
   fetch('/', {
     method: 'POST',
