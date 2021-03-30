@@ -38,10 +38,15 @@ document.querySelector("#contactForm").addEventListener("submit", handleSubmit);
 const handleSubmit = (e) => {
   e.preventDefault()
   let formData = new FormData(document.getElementById('#contactForm'))
+  var object = {};
+formData.forEach(function(value, key){
+    object[key] = value;
+});
+var json = JSON.stringify(object);
   fetch('https://app.specr.ie/api/v1/contact', {
     method: 'POST',
     headers: { "Content-Type": "application/json" },
-    body: new URLSearchParams(formData).to()
+    body: new URLSearchParams(formData).toString()
   }).then(() => console.log('Form successfully submitted')).catch((error) =>
     alert(error))
 }
